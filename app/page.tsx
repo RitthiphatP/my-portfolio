@@ -124,12 +124,12 @@ export default function Home() {
                 className="w-58 h-58 rounded-full mx-auto object-cover border-4 border-white shadow-lg"
               />
             </div>
-            <div className="inline-flex items-center gap-2 bg-blue-100 text-blue-700 px-4 py-2 rounded-full text-sm mb-6">
+            <div className="inline-flex items-center gap-2 bg-blue-100 text-blue-700 px-4 py-4 rounded-full text-sm mb-6">
               <span className="w-2 h-2 bg-green-500 rounded-full animate-pulse"></span>
               Open to work
             </div>
             
-            <h1 className="text-6xl md:text-7xl font-bold mb-6 bg-gradient-to-r from-blue-600 via-purple-600 to-pink-600 bg-clip-text text-transparent">
+            <h1 className="text-3xl md:text-6xl font-bold mb-5 bg-gradient-to-r from-blue-600 via-purple-600 to-pink-600 bg-clip-text text-transparent leading-tight">
               ฤทธิพัฒน์ พลเสน (เต้ย)
             </h1>
             
