@@ -52,7 +52,7 @@ const projects = [
 const skills = [
   { name: 'Frontend', icon: Layout, level: 85, items: ['React', 'Next.js', 'Tailwind', 'TypeScript', 'Laravel', 'Bootstrap', 'MUI (Material-UI)'] },
   { name: 'Backend', icon: Server, level: 80, items: ['Node.js', 'MySQL', 'SQLite', 'Nest.js', 'Laravel', 'CodeIgniter'] },
-  { name: 'DevOps & Tools', icon: Code, level: 65, items: ['Git', 'GitLab', 'Docker', 'DBeaver'] },
+  { name: 'DevOps & Tools', icon: Code, level: 70, items: ['Git', 'GitLab', 'Docker', 'DBeaver'] },
 ];
 
 const experiences = [
