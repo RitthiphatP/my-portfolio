@@ -130,7 +130,7 @@ export default function Home() {
             </div>
             
             <h1 className="text-6xl md:text-7xl font-bold mb-6 bg-gradient-to-r from-blue-600 via-purple-600 to-pink-600 bg-clip-text text-transparent">
-              ฤทธิพัฒน์ พลเสน
+              ฤทธิพัฒน์ พลเสน (เต้ย)
             </h1>
             
             <p className="text-xl md:text-2xl text-gray-700 mb-4">
