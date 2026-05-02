@@ -11,7 +11,7 @@ const ibmPlex = IBM_Plex_Sans_Thai({
 });
 
 export const metadata: Metadata = {
-  title: 'Portfolio | นักพัฒนาเว็บ',
+  title: 'Portfolio | ฤทธิพัฒน์ พลเสน (เต้ย)',
   description: 'ผลงานและประวัติของนักพัฒนาเว็บ',
 };
 
